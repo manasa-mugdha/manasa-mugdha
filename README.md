@@ -1,17 +1,18 @@
+<h2 align="center">Hey!I'm Manasa Mugdha. <br> Welcome to my GitHub prodile :)</h2> 
+
 # **A Little Something About Me**
 
-👋 Hello World! I'm Manasa Mugdha, a coding virtuoso and self-proclaimed binary poet, translating ideas into elegant code! ✨👩‍💻
+👋 Hello World! I'm a coding virtuoso and self-proclaimed binary poet, translating ideas into elegant code! ✨👩‍💻
 
 🚀 Currently still in college, I'm navigating towards the web development cosmos, on a quest to make pixels align like the stars and bring order to the chaos of code. 
 
 🔍 As a data aficionado, I wield Python like a wizard's wand, conjuring insights from data realms. My favorite pastime? Turning datasets into stories – it's like coding, but with more drama! I like integrating my tehcnical prowess with business aspects and finding middle-ground to solve common problems. 
 
 🎨 UI/UX is like a virtual canvas for me and code is my paint. I CTRL+ART+DELETE until it's perfect! Designing interfaces that are so sleek and visually appealing is my passion.
+<img align="right" width="250" src="https://i.pinimg.com/564x/52/ee/01/52ee019d68555e1f7efe42d69a704c41.jpg">
 
 So let's help each each other out here.
 Until the next commit, happy developing!
-
-<img align="right" width="250" src="https://i.pinimg.com/564x/52/ee/01/52ee019d68555e1f7efe42d69a704c41.jpg">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
