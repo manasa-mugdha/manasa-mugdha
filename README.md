@@ -1,4 +1,6 @@
-![Background Image](https://images.pexels.com/photos/7130560/pexels-photo-7130560.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+<div align="center">
+    <img src="https://images.pexels.com/photos/7130560/pexels-photo-7130560.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="Background Image" width="100%" height="auto">
+</div>
 
 <h1 align="center">Hey! I'm Manasa Mugdha🙋‍♀️</h1>
 <h2 align="center">Welcome to my GitHub profile :)</h2>
