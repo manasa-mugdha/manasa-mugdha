@@ -1,6 +1,7 @@
-<h1 align="center">Hey!I'm Manasa Mugdha</h1>
+<h1 align="center">Hey! I'm Manasa Mugdha🙋‍♀️</h1>
 <h2 align="center">Welcome to my GitHub profile :)</h2>
 <img align="right" width="250" src="https://i.pinimg.com/564x/52/ee/01/52ee019d68555e1f7efe42d69a704c41.jpg">
+
 
 
 # **A Little Something About Me**
