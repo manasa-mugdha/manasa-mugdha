@@ -1,4 +1,4 @@
-**A Little Something About Me**
+# **A Little Something About Me**
 
 👋 Hello World! I'm Manasa Mugdha, a coding virtuoso and self-proclaimed binary poet, translating ideas into elegant code! ✨👩‍💻
 
@@ -9,4 +9,4 @@
 🎨 UI/UX is like a virtual canvas for me and code is my paint. I CTRL+ART+DELETE until it's perfect! Designing interfaces that are so sleek and visually appealing is my passion.
 
 So let's help each each other out here.
-Until the next commit, happy developing geeks!
+Until the next commit, happy developing!
