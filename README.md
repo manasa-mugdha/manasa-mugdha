@@ -11,6 +11,7 @@
 So let's help each each other out here.
 Until the next commit, happy developing!
 
+<img align="right" src="https://pics.craiyon.com/2023-10-09/b5b4154c661744f6b5d49c06dd9a4725.webp">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
