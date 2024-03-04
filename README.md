@@ -1,6 +1,4 @@
 **Somethings About Me**
-<!--
-**manasa-mugdha/manasa-mugdha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 👋 Hello World! I'm Manasa Mugdha, a coding virtuoso and self-proclaimed binary poet, translating ideas into elegant code! ✨👩‍💻
 
