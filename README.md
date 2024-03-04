@@ -1,4 +1,5 @@
-<h2 align="center">Hey!I'm Manasa Mugdha. <br> Welcome to my GitHub prodile :)</h2> 
+<h2 align="center">Hey!I'm Manasa Mugdha.</h2>
+Welcome to my GitHub prodile :)
 
 # **A Little Something About Me**
 
