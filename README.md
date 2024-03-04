@@ -11,7 +11,7 @@
 So let's help each each other out here.
 Until the next commit, happy developing!
 
-<img align="right" width="300" src="https://i.pinimg.com/564x/52/ee/01/52ee019d68555e1f7efe42d69a704c41.jpg">
+<img align="right" width="100" src="https://i.pinimg.com/564x/52/ee/01/52ee019d68555e1f7efe42d69a704c41.jpg">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
