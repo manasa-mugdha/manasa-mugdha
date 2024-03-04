@@ -17,7 +17,7 @@ Until the next commit, happy developing!
 <a href="www.linkedin.com/in/manasa-mugdha-02b14b249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manasa mugdha" height="30" width="40" /></a>
 
 
-<h4 align="left">My alter ego:</h4>
+<h3 align="left">My alter ego:</h3>
 <p align="left">
 <a href="https://instagram.com/manasamugdha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manasamugdha" height="30" width="40" /></a>
 </p>
