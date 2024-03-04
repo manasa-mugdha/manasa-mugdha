@@ -1,5 +1,7 @@
-<h2 align="center">Hey!I'm Manasa Mugdha.</h2>
-Welcome to my GitHub prodile :)
+<h1 align="center">Hey!I'm Manasa Mugdha</h1>
+<h2 align="center">Welcome to my GitHub profile :)</h2>
+<img align="right" width="250" src="https://i.pinimg.com/564x/52/ee/01/52ee019d68555e1f7efe42d69a704c41.jpg">
+
 
 # **A Little Something About Me**
 
@@ -10,7 +12,6 @@ Welcome to my GitHub prodile :)
 🔍 As a data aficionado, I wield Python like a wizard's wand, conjuring insights from data realms. My favorite pastime? Turning datasets into stories – it's like coding, but with more drama! I like integrating my tehcnical prowess with business aspects and finding middle-ground to solve common problems. 
 
 🎨 UI/UX is like a virtual canvas for me and code is my paint. I CTRL+ART+DELETE until it's perfect! Designing interfaces that are so sleek and visually appealing is my passion.
-<img align="right" width="250" src="https://i.pinimg.com/564x/52/ee/01/52ee019d68555e1f7efe42d69a704c41.jpg">
 
 So let's help each each other out here.
 Until the next commit, happy developing!
