@@ -1,3 +1,5 @@
+<div style="background-image: url('https://images.pexels.com/photos/7130560/pexels-photo-7130560.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'); height: 300px; background-size: cover; background-position: center; display: flex; justify-content: center; align-items: center;">
+
 <h1 align="center">Hey! I'm Manasa Mugdha🙋‍♀️</h1>
 <h2 align="center">Welcome to my GitHub profile :)</h2>
 
