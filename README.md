@@ -5,7 +5,7 @@
 
 
 # **A Little Something About Me**
-<img align="right" width="250" src="https://i.pinimg.com/564x/52/ee/01/52ee019d68555e1f7efe42d69a704c41.jpg">
+<img align="right" width="250" src="https://media.tenor.com/hR312hTG5T0AAAAi/mythikore-anime-girl.gif">
 
 
 👋 Hello World! I'm a coding virtuoso and self-proclaimed binary poet, translating ideas into elegant code! ✨👩‍💻
