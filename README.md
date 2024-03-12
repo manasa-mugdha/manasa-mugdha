@@ -34,8 +34,5 @@ Until the next commit, happy developing!
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manasa-mugdha&show_icons=true&locale=en" alt="manasa-mugdha" /></p> -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manasa-mugdha&show_icons=true&locale=en&layout=compact" alt="manasa-mugdha" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manasa-mugdha&show_icons=true&locale=en" alt="manasa-mugdha" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manasa-mugdha&" alt="manasa-mugdha"</p>
 
