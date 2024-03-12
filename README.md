@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hey! I'm Manasa Mugdha🙋‍♀️</h1>
+<h1 align="center">Salut! I'm Manasa Mugdha🙋‍♀️</h1>
 <h2 align="center">Welcome to my GitHub profile :)</h2>
 
 
@@ -8,7 +8,7 @@
 <img align="right" width="250" src="https://media.tenor.com/hR312hTG5T0AAAAi/mythikore-anime-girl.gif">
 
 
-👋 Hello World! I'm a coding virtuoso and self-proclaimed binary poet, translating ideas into elegant code! ✨👩‍💻
+👋 Hello, world! I'm a coding virtuoso and self-proclaimed binary poet, translating ideas into elegant code! ✨👩‍💻
 
 🚀 Currently still in college, I'm navigating towards the web development cosmos, on a quest to make pixels align like the stars and bring order to the chaos of code. 
 
