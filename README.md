@@ -34,3 +34,5 @@ Until the next commit, happy developing!
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=manasa-mugdha&show_icons=true&locale=en&layout=compact" alt="manasa-mugdha" /></p>
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manasa-mugdha&show_icons=true&locale=en" alt="manasa-mugdha" /></p> -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omkar-ghongade&show_icons=true&theme=dracula&bg_color=000000&locale=en&layout=compact" alt="omkar-ghongade" /></p>
+
