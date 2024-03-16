@@ -16,7 +16,7 @@
 
 🎨 UI/UX is like a virtual canvas for me and code is my paint. I CTRL+ART+DELETE until it's perfect! Designing interfaces that are so sleek and visually appealing is my passion.
 
-So let's help each each other out here.
+So let's help each other out here.
 
 Until the next commit, happy developing!
 
